@@ -1,12 +1,17 @@
 # Seattle 911 Staffing Forecast
 
+## [Open the live dashboard](https://anas-abdelhafeez.github.io/seattle-911-staffing/)
+
+<a href="https://anas-abdelhafeez.github.io/seattle-911-staffing/"><img src="docs/sea_t1.png" alt="Seattle 911 dashboard" width="720"></a>
+
+https://anas-abdelhafeez.github.io/seattle-911-staffing/
+
 Story-driven analysis and staffing model built on real Seattle Fire Department 911 dispatch data: when calls actually arrive, how much a flat weekly schedule overshoots the need, and the hour-by-hour staffing plan that closes the gap.
 
 **Live-style Excel dashboard:** [`Seattle_911_Staffing_Dashboard.xlsx`](./Seattle_911_Staffing_Dashboard.xlsx) - dark, Power BI-style workbook with the full story in 7 tabs (Problem, Impact, Where, Who, Why, When, Fix).
 
-**Interactive HTML dashboard:** [`seattle_dashboard.html`](./seattle_dashboard.html) - download and open in any browser.
+**Interactive HTML dashboard:** open the live link above (it is also the `index.html` file in this repo).
 
-![Problem tab](docs/sea_t1.png)
 
 ## The question
 
