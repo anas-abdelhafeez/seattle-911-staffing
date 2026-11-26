@@ -31,7 +31,7 @@ A dispatch center that staffs a flat number of agents every hour of the week pay
 | File | What it is |
 | --- | --- |
 | `Seattle_911_Staffing_Dashboard.xlsx` | The deliverable: 7-tab story dashboard with styled charts |
-| `seattle_dashboard.html` | Interactive multi-tab dashboard (same numbers, dark theme) |
+| `index.html` | Interactive multi-tab dashboard (same numbers, dark theme) |
 | `docs/` | Dashboard screenshots |
 
 ## Data
